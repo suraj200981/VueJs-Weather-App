@@ -35,7 +35,7 @@ export default {
 
   data(){
     return{
-      api_key:'a5d31a2d2b40bb6310506e5152480b99',
+      api_key:'',
       url_base: "https://api.openweathermap.org/data/2.5/",
       query: '',
       weather: {}
